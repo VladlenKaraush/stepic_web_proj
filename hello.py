@@ -1,5 +1,4 @@
 from cgi import parse_qs
-#comments deleted
 def application(environ, start_response):
 	status = '200 OK'
 	headers = [
